@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+}
+div {
+    margin: 0;
+    padding:0;
+    display: flex;
+    justify-content: left; 
+}
+
